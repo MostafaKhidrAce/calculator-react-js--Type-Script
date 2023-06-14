@@ -1,0 +1,14 @@
+.calculator.dark {
+  background-color: #222;
+  color: #fff;
+}
+
+.calculator.dark .buttons button {
+  background-color: #555;
+  color: #fff;
+}
+
+.calculator.dark .row:last-child button {
+  background-color: #ff9900;
+  color: #fff;
+}
